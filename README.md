@@ -2,6 +2,14 @@
 <b>A collection of QA/Manual testing stuff that I learned during courses.</b>
 <hr>
 
+
+<h3>The courses I have completed</h3>
+<ul>
+<li>Postman - testowanie REST API</li>
+<li>The Complete 2023 Software Testing Bootcamp</li>
+<li>Praktyczny kurs testowania oprogramowania</li>
+</ul>
+
 <h3>Postman</h3>
 
 Here are some sample collections from Postman that I created while learning to test the API.
@@ -20,4 +28,5 @@ Here are some sample collections from Postman that I created while learning to t
 <h3>How do I work with Jira?</h3>
 Example of user stories and epics added in the backlog  
 <img src="https://user-images.githubusercontent.com/77117434/224371697-ecbb517b-34c1-4cdf-b0dd-8f0fc9f97fa0.jpg"/>
+
 
