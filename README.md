@@ -13,6 +13,7 @@
 <h3>Postman</h3>
 
 Here are some sample collections from Postman that I created while learning to test the API.
+Example test report is available in the folder above.
 
 <ul>
 <li><a href="https://www.postman.com/aviation-geologist-38287031/workspace/test-bootcamp/collection/25345801-5d34f760-a30f-4ef9-9abd-c37ef081874f?action=share&creator=25345801">My postman collection from reqres.in</a></li>
