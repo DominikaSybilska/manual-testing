@@ -8,8 +8,8 @@ Here are some sample collections from Postman that I created while learning to t
 
 <ul>
 <li><a href="https://www.postman.com/aviation-geologist-38287031/workspace/test-bootcamp/collection/25345801-5d34f760-a30f-4ef9-9abd-c37ef081874f?action=share&creator=25345801">My postman collection from reqres.in</a></li>
-<li><a href="https://www.postman.com/aviation-geologist-38287031/workspace/test-bootcamp/collection/25345801-bea89204-fc9a-4f90-8bd0-edf957f5c59b?action=share&creator=25345801">My postman collection from JSONPlaceholder</a></li>
-  
+<li><a href="https://www.postman.com/aviation-geologist-38287031/workspace/test-bootcamp/collection/25345801-8fef92e1-faf2-4369-be04-8628740e677c?action=share&creator=25345801">My postman collection from JSONPlaceholder - post section</a></li>
+<li><a href="https://www.postman.com/aviation-geologist-38287031/workspace/test-bootcamp/collection/25345801-a8bb86e4-a7cf-44cb-aecf-16708e446182?action=share&creator=25345801">My postman collection from JSONPlaceholder - comment section</a></li>
 </ul>
 
 
