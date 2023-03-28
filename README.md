@@ -1,10 +1,16 @@
 # Manual testing - portfolio
 <b>A collection of QA/Manual testing stuff that I learned during courses.</b>
 <hr>
-
+<h3>Test cases & bug reports</h3>
+Here are sample test cases and bug reports:
+<ul>
+<li><a href="https://naucz-sie-testowac.czyitjestdlamnie.pl/">Naucz się testować</a> - on this webiste you can find application which helps you control your wallet. The developers team hid some bugs and your task is to find them all. 
+<br> My test cases and bug report is available <a href="https://docs.google.com/spreadsheets/d/1MNwEeeh6N47dSlC65d6zWvOqKlo6r6Uw63_VbwxQqwc/edit?usp=sharing">here</a>. --- be careful, file is still in progress. </li>
+<ul>
 
 <h3>The courses I have completed</h3>
 <ul>
+<li>100 Days of Code: The Complete Python Pro Bootcamp for 2023 - in progress</li>
 <li>Postman - testowanie REST API</li>
 <li>The Complete 2023 Software Testing Bootcamp</li>
 <li>Praktyczny kurs testowania oprogramowania</li>
